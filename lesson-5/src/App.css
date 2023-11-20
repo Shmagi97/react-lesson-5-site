@@ -1,0 +1,28 @@
+.aqciaCont {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+}
+
+.aTeg {
+  text-decoration: none;
+  color: black;
+
+  display: block;
+  text-align: center;
+}
+
+.aTeg:hover {
+  color: red;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+}
+
+.cont {
+  text-align: center;
+}
